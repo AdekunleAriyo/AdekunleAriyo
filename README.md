@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter and DART.
 - 👯 I’m looking to collaborate on building responsive mobile applications.
 - 🤔 I’m looking for help with State management.
-- 💬 Ask me about 
+- 💬 Ask me about FLUTTER code
 - 📫 How to reach me: dekunlearry@gmail.com, 08027608299
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I love coding.
+- ⚡ Fun fact: I love coding, at least most of the time.
 
 -->
